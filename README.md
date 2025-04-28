@@ -59,7 +59,7 @@ A cada requisição de clima, as seguintes métricas são atualizadas:
 
 1. Clone este repositório:
    ```bash
-   git clone https://https://github.com/sidneyLimaDev/chatbot-nepo
+   git clone https://github.com/sidneyLimaDev/chatbot-nepo-teste
    ```
 2. Acesse o diretório do projeto:
    ```bash
