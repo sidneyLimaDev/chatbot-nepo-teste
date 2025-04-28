@@ -43,8 +43,7 @@ A cada requisição de clima, as seguintes métricas são atualizadas:
       |-- /services           # Serviços externos (APIs)
       |-- /utils              # Funções auxiliares (validação, logger, metrics)
       |-- chatbot.js          # Arquivo principal para rodar o chatbot
-   |-- /tests                 # Testes do chatbot
-      |-- chatbot.test.js     # Testes unitários
+   |-- /tests                 # Testes do unitarios
    |-- package.json           # Dependências do projeto
    |-- README.md              # Este arquivo
 ``` 
